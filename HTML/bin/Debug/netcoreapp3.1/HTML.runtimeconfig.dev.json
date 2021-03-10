@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Thalya\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Thalya\\.nuget\\packages"
+    ]
+  }
+}

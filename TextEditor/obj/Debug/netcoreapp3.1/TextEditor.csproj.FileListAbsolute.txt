@@ -1,0 +1,13 @@
+E:\VSCode\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.exe
+E:\VSCode\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.deps.json
+E:\VSCode\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.runtimeconfig.json
+E:\VSCode\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.runtimeconfig.dev.json
+E:\VSCode\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.dll
+E:\VSCode\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.pdb
+E:\VSCode\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.csprojAssemblyReference.cache
+E:\VSCode\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.AssemblyInfoInputs.cache
+E:\VSCode\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.AssemblyInfo.cs
+E:\VSCode\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.csproj.CoreCompileInputs.cache
+E:\VSCode\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.dll
+E:\VSCode\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.pdb
+E:\VSCode\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.genruntimeconfig.cache

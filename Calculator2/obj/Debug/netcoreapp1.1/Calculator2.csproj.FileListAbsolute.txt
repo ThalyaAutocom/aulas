@@ -1,0 +1,12 @@
+E:\VSCode\Calculator2\bin\Debug\netcoreapp1.1\Calculator2.deps.json
+E:\VSCode\Calculator2\bin\Debug\netcoreapp1.1\Calculator2.runtimeconfig.json
+E:\VSCode\Calculator2\bin\Debug\netcoreapp1.1\Calculator2.runtimeconfig.dev.json
+E:\VSCode\Calculator2\bin\Debug\netcoreapp1.1\Calculator2.dll
+E:\VSCode\Calculator2\bin\Debug\netcoreapp1.1\Calculator2.pdb
+E:\VSCode\Calculator2\obj\Debug\netcoreapp1.1\Calculator2.csproj.CoreCompileInputs.cache
+E:\VSCode\Calculator2\obj\Debug\netcoreapp1.1\Calculator2.AssemblyInfo.cs
+E:\VSCode\Calculator2\obj\Debug\netcoreapp1.1\Calculator2.dll
+E:\VSCode\Calculator2\obj\Debug\netcoreapp1.1\Calculator2.pdb
+E:\VSCode\Calculator2\obj\Debug\netcoreapp1.1\Calculator2.csprojAssemblyReference.cache
+E:\VSCode\Calculator2\obj\Debug\netcoreapp1.1\Calculator2.AssemblyInfoInputs.cache
+E:\VSCode\Calculator2\obj\Debug\netcoreapp1.1\Calculator2.genruntimeconfig.cache
