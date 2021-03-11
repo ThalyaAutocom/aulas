@@ -36,6 +36,7 @@ namespace EditorHTML
         {
             var blue = new Regex(@"<\s*blue[^>]*>(.*?)<\s*/\s*blue>");
             var red = new Regex(@"<\s*red[^>]*>(.*?)<\s*/\s*red>");
+            var pink = new Regex(@"<\s*pink[^>]*>(.*?)<\s*/\s*pink>");
             var words = text.Split(' ');
 
 
@@ -58,6 +59,19 @@ namespace EditorHTML
                 if (red.IsMatch(words[i]))
                 {
                     Console.ForegroundColor = ConsoleColor.Red;
+                    Console.Write(
+                        words[i].Substring(
+                            words[i].IndexOf('>') + 1,
+                            (
+                                (words[i].LastIndexOf('<') - 1) -
+                                words[i].IndexOf('>')
+                            )
+                        )
+                    );
+                    Console.Write(" ");
+                }else if (pink.IsMatch(words[i]))
+                {
+                    Console.ForegroundColor = ConsoleColor.Magenta;
                     Console.Write(
                         words[i].Substring(
                             words[i].IndexOf('>') + 1,
