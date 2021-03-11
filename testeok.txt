@@ -1,0 +1,2 @@
+teste <blue>Azul</blue> e <red>Vermelho</red> yees
+
