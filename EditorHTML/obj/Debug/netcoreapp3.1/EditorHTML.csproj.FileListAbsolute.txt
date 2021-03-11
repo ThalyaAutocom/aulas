@@ -1,0 +1,13 @@
+C:\VSCode\EditorHTML\bin\Debug\netcoreapp3.1\EditorHTML.exe
+C:\VSCode\EditorHTML\bin\Debug\netcoreapp3.1\EditorHTML.deps.json
+C:\VSCode\EditorHTML\bin\Debug\netcoreapp3.1\EditorHTML.runtimeconfig.json
+C:\VSCode\EditorHTML\bin\Debug\netcoreapp3.1\EditorHTML.runtimeconfig.dev.json
+C:\VSCode\EditorHTML\bin\Debug\netcoreapp3.1\EditorHTML.dll
+C:\VSCode\EditorHTML\bin\Debug\netcoreapp3.1\EditorHTML.pdb
+C:\VSCode\EditorHTML\obj\Debug\netcoreapp3.1\EditorHTML.csprojAssemblyReference.cache
+C:\VSCode\EditorHTML\obj\Debug\netcoreapp3.1\EditorHTML.AssemblyInfoInputs.cache
+C:\VSCode\EditorHTML\obj\Debug\netcoreapp3.1\EditorHTML.AssemblyInfo.cs
+C:\VSCode\EditorHTML\obj\Debug\netcoreapp3.1\EditorHTML.csproj.CoreCompileInputs.cache
+C:\VSCode\EditorHTML\obj\Debug\netcoreapp3.1\EditorHTML.dll
+C:\VSCode\EditorHTML\obj\Debug\netcoreapp3.1\EditorHTML.pdb
+C:\VSCode\EditorHTML\obj\Debug\netcoreapp3.1\EditorHTML.genruntimeconfig.cache

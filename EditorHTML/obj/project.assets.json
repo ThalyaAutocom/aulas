@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\VSCode\\HTML\\HTML.csproj",
-      "projectName": "HTML",
-      "projectPath": "C:\\VSCode\\HTML\\HTML.csproj",
+      "projectUniqueName": "C:\\VSCode\\EditorHTML\\EditorHTML.csproj",
+      "projectName": "EditorHTML",
+      "projectPath": "C:\\VSCode\\EditorHTML\\EditorHTML.csproj",
       "packagesPath": "C:\\Users\\Thalya\\.nuget\\packages\\",
-      "outputPath": "C:\\VSCode\\HTML\\obj\\",
+      "outputPath": "C:\\VSCode\\EditorHTML\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Thalya\\AppData\\Roaming\\NuGet\\NuGet.Config"
